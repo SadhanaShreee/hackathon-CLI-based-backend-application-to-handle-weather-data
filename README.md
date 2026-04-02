@@ -4,8 +4,9 @@
 
 # ER Diagram:
 
-<img width="370" height="588" alt="Screenshot 2026-04-02 114307" src="https://github.com/user-attachments/assets/f64d70b6-3f17-4fc0-939f-6941e5d94dd7" />
+<img width="478" height="627" alt="Screenshot 2026-04-02 120042" src="https://github.com/user-attachments/assets/08e853d2-4250-4839-8441-78413e3f9e89" />
 
+Used a composite primary key 
 
 ## Methods used:
 ```
